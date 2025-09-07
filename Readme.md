@@ -1,6 +1,6 @@
 # Deno Examples: Hello, World!
 
-Simply serving a single file over HTTP
+Simply serving a single jpg file over HTTP
 
 ## Get your own copy to explore
 
